@@ -1,0 +1,5 @@
+INFO  | 2017-03-16 10:16:12 | [main]  - Please enter your choise: 
+rename book - press 1; 
+choose employess hwo've read more than one book - 2; 
+choose employess hwo've read less than three books - 3; 
+ERROR | 2017-03-16 10:16:15 | [main]  - com.epam.library.exeption.ServiceException: Error! Can't retrieve query result.

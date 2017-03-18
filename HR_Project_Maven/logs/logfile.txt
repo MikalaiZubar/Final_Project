@@ -1,0 +1,4 @@
+INFO  | 2017-03-17 11:21:45 | [main]  - Incorrect password: !@#$%^&*( Validation result: false
+INFO  | 2017-03-17 11:21:45 | [main]  - Incorrect password: null Validation result: false
+INFO  | 2017-03-17 11:21:45 | [main]  - Incorrect password: afshdjfdsfdsfdsfsdfsdfdsfkcb Validation result: false
+INFO  | 2017-03-17 11:21:45 | [main]  - Incorrect password:  Validation result: false
